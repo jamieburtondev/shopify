@@ -8,14 +8,13 @@ import GetLocation from "./components/get-location";
 
 const Index = () => {
   const initialCollections = [
-    "Cold Beverages",
+    "Candy",
     "Hot Beverages",
-    "Salty Snacks",
-    "Sweet Snacks",
-    "Best Selling Items",
-    "Food",
+    "Cold Beverages",
+    "Fresh",
     "Alcohol",
     "Tobacco",
+    "Snacks"
   ];
 
   const tabs = [

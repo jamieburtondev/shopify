@@ -22,3 +22,6 @@ config/tunnel.pid
 
 # Data Directory
 data
+
+# Other Data
+pages/data/locations.json
